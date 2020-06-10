@@ -1,3 +1,7 @@
+✅ **지금 정식 서비스 중입니다!**
+
+[https://mo-gak-ko.netlify.app/](https://mo-gak-ko.netlify.app/)
+
 # 📌 모각코란
 
 **모여서 각자 코딩**, 줄여서 **모각코**라고 부릅니다.
