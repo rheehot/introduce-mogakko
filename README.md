@@ -1,3 +1,5 @@
+🎨 **2020-06-10 수정**
+
 ✅ **지금 정식 서비스 중입니다!**
 
 [https://mo-gak-ko.netlify.app/](https://mo-gak-ko.netlify.app/)
