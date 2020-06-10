@@ -77,6 +77,10 @@
 
 ## 홈페이지 사진
 
+사용된 아이콘은 모두 **SIL**, **OFL** svg 아이콘이에요.
+
+판매를 제외하고 어떤 용도로든 사용이 가능해요.
+
 ### 메인
 
 ![image](https://user-images.githubusercontent.com/46839654/84260893-c2621880-ab55-11ea-9919-cabe3281bead.png)
