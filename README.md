@@ -83,7 +83,7 @@
 
 [https://mo-gak-ko.netlify.app/](https://mo-gak-ko.netlify.app/)
 
-## 홈페이지 사진
+## 🌈 홈페이지 사진
 
 사용된 아이콘은 모두 **SIL**, **OFL** svg 아이콘이에요.
 
