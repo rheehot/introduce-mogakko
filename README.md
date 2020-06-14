@@ -1,4 +1,4 @@
-🎨 **2020-06-10 수정**
+🎨 **2020-06-14 수정**
 
 ✅ **지금 정식 서비스 중입니다!**
 
@@ -93,7 +93,7 @@
 
 ### 메인
 
-![image](https://user-images.githubusercontent.com/46839654/84260893-c2621880-ab55-11ea-9919-cabe3281bead.png)
+![image](https://user-images.githubusercontent.com/46839654/84583159-9d5cf680-ae30-11ea-90d8-d90e7c0316fa.png)
 
 > 노마드코더 로고는 사용 허가를 받았어요.
 
