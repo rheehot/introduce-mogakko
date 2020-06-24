@@ -2,7 +2,7 @@
 
 ✅ **지금 정식 서비스 중입니다!**
 
-[https://mo-gak-ko.netlify.app/](https://mo-gak-ko.netlify.app/)
+[https://mo-gak-ko.xyz](https://mo-gak-ko.xyz)
 
 # 📌 모각코란
 
