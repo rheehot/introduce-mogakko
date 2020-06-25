@@ -1,4 +1,4 @@
-🎨 **2020-06-14 수정**
+🎨 **2020-06-25 수정**
 
 ✅ **지금 정식 서비스 중입니다!**
 
@@ -93,7 +93,7 @@
 
 ### 메인
 
-![image](https://user-images.githubusercontent.com/46839654/84583159-9d5cf680-ae30-11ea-90d8-d90e7c0316fa.png)
+![image](https://user-images.githubusercontent.com/46839654/85648786-8776ed80-b6dc-11ea-9be9-d1d5bc3fd0cd.png)
 
 > 노마드코더 로고는 사용 허가를 받았어요.
 
@@ -143,9 +143,9 @@
 
 ### 알림
 
-![image](https://user-images.githubusercontent.com/46839654/84261857-8465f400-ab57-11ea-9fcb-54e4dded2ec5.png)
+![image](https://user-images.githubusercontent.com/46839654/85648899-c016c700-b6dc-11ea-9fd3-2305df5c856a.png)
 
-![image](https://user-images.githubusercontent.com/46839654/84261905-947dd380-ab57-11ea-8ddb-77a973a600da.png)
+![image](https://user-images.githubusercontent.com/46839654/85648937-d91f7800-b6dc-11ea-8acb-8e46742cd0aa.png)
 
 > 모임에 요청이 오거나 요청 허가/거부, 강퇴 당하면 알림이 와요.
 
