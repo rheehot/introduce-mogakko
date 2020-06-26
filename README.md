@@ -1,4 +1,4 @@
-🎨 **2020-06-25 수정**
+🎨 **2020-06-26 수정**
 
 🎉 **[노마드코더 뉴스레터](https://us16.campaign-archive.com/?u=a99b43453db5050f1f26b2744&id=4bf886217d)에 올라갔어요!**
 
@@ -85,7 +85,7 @@
 
 ## 👇 홈페이지 URL
 
-[https://mo-gak-ko.netlify.app/](https://mo-gak-ko.netlify.app/)
+[https://mo-gak-ko.xyz](https://mo-gak-ko.xyz)
 
 ## 🌈 홈페이지 사진
 
